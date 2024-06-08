@@ -1,0 +1,8 @@
+# Query: print()
+# ContextLines: 1
+
+name=("Vache Maisuradze")
+print=11
+print(age) 
+
+

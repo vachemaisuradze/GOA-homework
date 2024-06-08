@@ -48,6 +48,6 @@ begin_fill()
 right(150)
 forward(200)
 left(120)   
-forward(200)
-end_fill()
-exitonclick()
+forwrward
+end_fill
+

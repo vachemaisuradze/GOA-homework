@@ -1,0 +1,17 @@
+name="vache"
+surname="maisuradze"
+
+print(name)
+print(surname)
+
+#  მიმატება +
+print(10 + 10)
+ 
+#  გამოკლება -
+print(10 - 5)
+
+#  გამრავლება *
+print(2 * 4)
+
+#  გაყოფა /
+print(6 / 2)
